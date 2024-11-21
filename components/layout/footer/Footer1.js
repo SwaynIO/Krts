@@ -10,7 +10,7 @@ export default function Footer1() {
                 <div className="container">
                     <div className="footer-one__inner">
                         <div className="logo-box text-center">
-                            <Link href="/"><img src="assets/images/resources/logo-1.png" alt="#"/></Link>
+                            <Link href="/"><img src="assets/images/logo.svg" alt="#"/></Link>
                         </div>
 
                         <div className="footer-one__contact">
