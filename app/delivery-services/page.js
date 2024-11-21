@@ -115,7 +115,7 @@ export default function Home() {
 
                                         <div className={isActive.key == 2 ? "accrodion active" : "accrodion"} onClick={() => handleToggle(2)}>
                                             <div className="accrodion-title">
-                                                <h4>What are the advantages of Baosh ?</h4>
+                                                <h4>What are the advantages of Krts. ?</h4>
                                             </div>
                                             <div className="accrodion-content">
                                                 <div className="inner">

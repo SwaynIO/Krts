@@ -35,7 +35,7 @@ export default function Footer1() {
 
                                     <div className="text-box">
                                         <p>Send email</p>
-                                        <h3><Link href="mailto:yourmail@email.com">baosh@company.com</Link></h3>
+                                        <h3><Link href="mailto:yourmail@email.com">krts@imvu.fr</Link></h3>
                                     </div>
                                 </li>
 
