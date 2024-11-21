@@ -17,14 +17,6 @@ export default function Team() {
                                     </div>
                                     <h2 className="sec-title__title tg-element-title">A Fellowship of Elegance <br /> and Mystery</h2>
                                 </div>
-
-                                <div className="btn-box">
-                                    <Link className="thm-btn" href="contact">
-                                        <span className="txt">Learn More</span>
-                                        <span className="bdrl"></span>
-                                        <span className="bdrr"></span>
-                                    </Link>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -40,8 +32,8 @@ export default function Team() {
                                             <div className="inner">
                                                 <img src="assets/images/team/divine.jpg" alt="Divine Darkness - The Eternal" />
                                                 <div className="overlay-content">
-                                                    <h2><Link href="#">Divine Darkness</Link></h2>
-                                                    <p>The Eternal</p>
+                                                    <h2><Link href="https://fr.imvu.com/next/av/Diamant5/">Divine Darkness</Link></h2>
+                                                    <p>🥀 The Darkest Rose</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -56,8 +48,8 @@ export default function Team() {
                                             <div className="inner">
                                                 <img src="assets/images/team/zia.jpg" alt="Zia - The Strategist" />
                                                 <div className="overlay-content">
-                                                    <h2><Link href="#">Zia</Link></h2>
-                                                    <p>The Strategist</p>
+                                                    <h2><Link href="https://fr.imvu.com/next/av/Dash4578895/">Zia</Link></h2>
+                                                    <p>🃏 The Strategist</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -72,8 +64,8 @@ export default function Team() {
                                             <div className="inner">
                                                 <img src="assets/images/team/maya.jpg" alt="Maya - The Bee" />
                                                 <div className="overlay-content">
-                                                    <h2><Link href="#">Maya</Link></h2>
-                                                    <p>The Bee</p>
+                                                    <h2><Link href="https://fr.imvu.com/next/av/ayayaymami/">Maya</Link></h2>
+                                                    <p>🐝 The Bee</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -89,7 +81,7 @@ export default function Team() {
                                                 <img src="assets/images/team/mareva.jpg" alt="Mareva - The Incantress" />
                                                 <div className="overlay-content">
                                                     <h2><Link href="https://fr.imvu.com/next/av/maerava23/">Mareva</Link></h2>
-                                                    <p>The Incantress</p>
+                                                    <p>🧚‍♀️The Incantress</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -104,8 +96,8 @@ export default function Team() {
                                             <div className="inner">
                                                 <img src="assets/images/team/gwada.jpg" alt="Gwada - The Uncle" />
                                                 <div className="overlay-content">
-                                                    <h2><Link href="#">Gwada</Link></h2>
-                                                    <p>The Uncle</p>
+                                                    <h2><Link href="https://fr.imvu.com/next/av/flogwadaboys/">Gwada</Link></h2>
+                                                    <p>👨‍🦳The Uncle</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -120,8 +112,8 @@ export default function Team() {
                                             <div className="inner">
                                                 <img src="assets/images/team/bess.jpg" alt="Bess - The Thinker" />
                                                 <div className="overlay-content">
-                                                    <h2><Link href="#">Bess</Link></h2>
-                                                    <p>The Thinker</p>
+                                                    <h2><Link href="https://fr.imvu.com/next/av/Shiiinn/">Bess</Link></h2>
+                                                    <p>🧙‍♂️ The Thinker</p>
                                                 </div>
                                             </div>
                                         </div>

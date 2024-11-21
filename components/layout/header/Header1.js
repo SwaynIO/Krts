@@ -84,7 +84,7 @@ export default function Header1({ scroll, handlePopup, handleMobileMenu, handleS
                                 <div className="main-header-one__middle">
                                     <div className="logo-box-one">
                                         <Link href="/">
-                                            <img src="assets/images/logo.svg" alt="Awesome Logo" title="" />
+                                            <img src="assets/images/logo.svg" alt="Krts." title="" />
                                         </Link>
                                     </div>
                                 </div>
